@@ -1,32 +1,32 @@
 [
-    {
-      "id": "660e2ed0573a7a6f3bb33034",
-      "age": 26,
-      "name": "Jo Colon"
-    },
-    {
-      "id": "660e2ed0384859b65d708f39",
-      "age": 26,
-      "name": "Holt Ferrell"
-    },
-    {
-      "id": "660e2ed07729ab8e6ca679f6",
-      "age": 38,
-      "name": "Myrtle Odonnell"
-    },
-    {
-      "id": "660e2ed0528bfd693fb67d69",
-      "age": 36,
-      "name": "Bradshaw Phillips"
-    },
-    {
-      "id": "660e2ed0ed876ff23d0f9958",
-      "age": 20,
-      "name": "Pamela Goodwin"
-    },
-    {
-      "id": "660e2ed0dd60296a40508fdf",
-      "age": 22,
-      "name": "Chris Holder"
-    }
-  ]
+  {
+    "id": "660e80a6de9947cb657f6223",
+    "price": 92,
+    "name": "Amanda Garrison"
+  },
+  {
+    "id": "660e80a6ec5b117b7adc0976",
+    "price": 228,
+    "name": "Soto Deleon"
+  },
+  {
+    "id": "660e80a624c80274d5aa0b76",
+    "price": 220,
+    "name": "Stefanie Riley"
+  },
+  {
+    "id": "660e80a69dd21e6c0854130b",
+    "price": 440,
+    "name": "Osborne Mcconnell"
+  },
+  {
+    "id": "660e80a68efa9690e4cbdd06",
+    "price": 209,
+    "name": "Lindsey Slater"
+  },
+  {
+    "id": "660e80a62d4b497caa8df853",
+    "price": 292,
+    "name": "Michael Whitaker"
+  }
+]

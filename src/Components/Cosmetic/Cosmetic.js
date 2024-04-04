@@ -2,9 +2,9 @@ import React from 'react';
 
 const Cosmetic = (props) => {
     // console.log(props);
-    const {id, name, price} = props.cosmetic;
+    const { id, name, price } = props.cosmetic;
     return (
-        <div>
+        <div className=''>
             <h1>Name: {name}</h1>
             <p>Id: {id}</p>
             <p>Price: ${price}</p>
